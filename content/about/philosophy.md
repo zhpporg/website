@@ -1,6 +1,7 @@
 ---
 title: "Philosophy"
 date: 2020-09-01T00:12:11-04:00
+weight: 2
 draft: false
 ---
 
