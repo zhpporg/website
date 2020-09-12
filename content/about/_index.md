@@ -6,6 +6,8 @@ draft: false
 
 *Zion’s Hill Preschool Program provides a developmentally appropriate learning environment for children ages two to five years.*
 
+*Zion’s Hill Preschool Program is an Independent Nondenominational School. Our school community has no religious affiliation. We welcome all faiths and cultures.*
+
 ![](/about/about-zions-hill.jpg)
 
 Our team of highly skilled educators facilitates play-based learning through thematic activities, drawing upon the Creative Curriculum and the CT Preschool Curriculum Framework.
