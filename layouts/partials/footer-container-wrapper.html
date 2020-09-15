@@ -1,0 +1,120 @@
+<div class="footer-container-wrapper">
+  <div class="footer-wrapper">
+    <!-- Get Footer Widget -->
+                  <div class="container mt0">
+        <div class="footer-widget-wrapper">
+          <div class="four columns mt0"><div class="custom-sidebar gdl-divider widget_text" div="" id="text-4"><h3 class="custom-sidebar-title footer-title-color gdl-title">About Us</h3>			<div class="textwidget"><p style="display:block; padding-right: 1em">Zion's Hill Preschool is <a href="http://www.zhpp.org/contact/directions/">located</a> in Wilton, Connecticut.  Our <a href="http://www.zhpp.org/about/meet-our-staff/" title="Zion Hill instructors">teachers</a> have degrees in early childhood education and development, and  the <a href="http://www.zhpp.org/parents/zhpp-board/">Board</a> is controlled by parents.</p>
+<p style="display:block; padding-right: 1em">In partnership with <a href="http://www.zhpp.org/parents/">family</a> and community, we provide a secure, developmentally appropriate, and <a href="http://www.zhpp.org/about/philosophy/">nurturing setting</a> promoting each child’s unique ability to reach their social, intellectual, and academic potential.</p>
+<p style="display:block; padding-right: 1em">Zion’s Hill Preschool Program admits students of any race, color, religion and national or ethnic origin.</p></div>
+  </div></div><div class="four columns mt0"><div class="custom-sidebar gdl-divider widget_text" div="" id="text-5"><h3 class="custom-sidebar-title footer-title-color gdl-title">Our Programs</h3>			<div class="textwidget"><div class="menu-program-menu-container">
+<ul id="menu-program-menu" class="menu">
+<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151">
+<a href="http://www.zhpp.org/programs/curriculum/">Curriculum</a>
+</li>
+<li id="menu-item-1158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1158">
+<a href="http://www.zhpp.org/programs/twos/">Two’s</a>
+</li>
+<li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1157">
+<a href="http://www.zhpp.org/programs/threes/">Three’s</a>
+</li>
+<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153">
+<a href="http://www.zhpp.org/programs/fours/">Four’s</a>
+</li>
+<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152">
+<a href="http://www.zhpp.org/programs/fives/">Five’s</a>
+</li>
+</ul>
+</div></div>
+  </div></div><div class="four columns third-col mt0"><div class="custom-sidebar gdl-divider widget_text" div="" id="text-6">			<div class="textwidget"><div class="menu-program-menu-container">
+<ul id="menu-program-menu" class="menu">
+<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150">
+<a href="http://www.zhpp.org/programs/breakfast-club/">Early Bird</a>
+</li>
+<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149">
+<a href="http://www.zhpp.org/programs/afternoon-adventures/">Afternoon Adventures</a>
+</li>
+<li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154">
+<a href="http://www.zhpp.org/programs/special-events/">Special Events</a>
+</li>
+<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1156">
+<a href="http://www.zhpp.org/programs/summer-program/">Summer Camp</a>
+</li>
+<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155">
+<a href="http://www.zhpp.org/programs/special-programs/">Special Programs</a>
+</li>
+</ul>
+</div></div>
+  </div></div><div class="four columns mt0"><div class="custom-sidebar gdl-divider contact-widget" div="" id="contact-widget-2"><h3 class="custom-sidebar-title footer-title-color gdl-title">Get in Touch</h3>
+  <script type="text/javascript">
+    /* Contact Form Widget*/
+    jQuery(document).ready(function() {
+      jQuery('form#contactForm').submit(function() {
+        jQuery('form#contactForm .error').remove();
+        var hasError = false;
+        jQuery('.requiredField').each(function() {
+          if(jQuery.trim(jQuery(this).val()) == '') {
+            var labelText = jQuery(this).prev('label').text();
+            jQuery(this).parent().append('<div class="error">* Require</div>');
+            hasError = true;
+
+          } else if(jQuery(this).hasClass('email')) {
+            var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            if(!emailReg.test(jQuery.trim(jQuery(this).val()))) {
+              var labelText = jQuery(this).prev('label').text();
+              jQuery(this).parent().append('<div class="error">* Please enter a valid email address</div>');
+              hasError = true;
+            }
+          }
+        });
+
+        if(!hasError) {
+          jQuery('form#contactForm li.buttons button').fadeOut('normal', function() {
+            jQuery(this).parent().append('Please Wait...');
+          });
+          var formInput = jQuery(this).serialize();
+          jQuery.post(jQuery(this).attr('action'),formInput, function(data){
+            jQuery('form#contactForm').slideUp("fast", function() {
+              jQuery(this).before('<p class="thanks">' + data + '</p>');
+            });
+          });
+        }
+
+        return false;
+
+      });
+    });
+  </script>
+
+  <div class="contact-widget-whole">
+    <div class="contact-widget">
+        <form action="http://www.zhpp.org/wp-admin/admin-ajax.php" id="contactForm" method="post">
+
+          <ol class="forms">
+            <li>
+              <label>Name</label>
+              <input type="text" name="widget-contactName" id="widget-contactName" class="requiredField">
+            </li>
+            <li>
+              <label>Email</label>
+              <input type="text" name="widget-email" id="widget-email" class="requiredField email">
+            </li>
+            <li class="textarea">
+              <label>Message</label>
+              <textarea name="widget-comments" id="widget-commentsText" class="requiredField"></textarea>
+            </li>
+            <li class="screenReader">
+              <input type="text" name="checking" id="checking" class="screenReader">
+              <input type="text" name="receiver-email" id="receiver-email" class="screenReader" value="info@zhpp.org">
+              <input type="text" name="action" id="action" class="screenReader" value="submit_contact_widget">
+            </li>
+            <li class="buttons"><input type="hidden" name="submitted" id="submitted" value="true"><button type="submit">Submit</button></li>
+          </ol>
+        </form>
+    </div>
+    <div class="clear alignleft"></div>
+  </div>	<!-- contact widget whole -->
+  </div></div>						<div class="clear"></div>
+        </div>
+      </div>
+        </div> <!-- footer wrapper -->
+</div> <!-- footer container wrapper -->
