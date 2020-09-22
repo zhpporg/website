@@ -14,6 +14,24 @@
     {{ partial "header-outer-wrapper.html" . }}
     {{ partial "main-navigation-wrapper.html" . }}
 
+    <div class="container main content-container">
+      <div class="header-content-wrapper">		<div class="content-wrapper sidebar-included left-sidebar">
+
+    <div class="page-wrapper">
+      <div class="gdl-page-float-left"><div class="gdl-page-item"><div class="sixteen columns mt30"><h1 class="gdl-page-title gdl-divider gdl-title title-color">{{ .Title }}</h1>
+        <div class="gdl-page-content">
+          {{ .Content }}
+      </div>
+</div></div><div class="five columns mt0 gdl-left-sidebar"><div class="left-sidebar-wrapper gdl-divider"><div class="custom-sidebar gdl-divider widget_nav_menu" div="" id="nav_menu-3"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">{{ .Title }}</h3><div class="menu-about-container">
+  <ul id="menu-about" class="menu">
+    {{ range .Pages }}
+    <li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1366"><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{ end }}
+  </ul></div></div><div class="pt30"></div></div></div></div>
+      <br class="clear">
+    </div>
+  </div> <!-- content-wrapper -->
+
 		<div class="container main content-container">
 			<div class="header-content-wrapper">		<div class="content-wrapper both-sidebar-included">
 		<div class="clear"></div>
