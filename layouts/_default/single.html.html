@@ -22,17 +22,15 @@
         <div class="gdl-page-content">
           {{ .Content }}
       </div>
-</div></div><div class="five columns mt0 gdl-left-sidebar"><div class="left-sidebar-wrapper gdl-divider"><div class="custom-sidebar gdl-divider widget_nav_menu" div="" id="nav_menu-3"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">{{ .Title }}</h3><div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-983 current_page_item menu-item-1361"><a href="http://www.zhpp.org/about/">About</a></li>
-<li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1366"><a href="http://www.zhpp.org/about/welcome/">Welcome</a></li>
-<li id="menu-item-1363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1363"><a href="http://www.zhpp.org/about/philosophy/">Philosophy</a></li>
-<li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365"><a href="http://www.zhpp.org/about/testimonials/">Testimonials</a></li>
-<li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a href="http://www.zhpp.org/about/meet-our-staff/">Meet Our Staff</a></li>
-<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1364"><a href="http://www.zhpp.org/about/policies/">Policies</a></li>
-<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="http://www.zhpp.org/about/open-house/">Visit ZHPP</a></li>
-</ul></div></div><div class="pt30"></div></div></div></div>
-			<br class="clear">
-		</div>
-	</div> <!-- content-wrapper -->
+    </div></div><div class="five columns mt0 gdl-left-sidebar"><div class="left-sidebar-wrapper gdl-divider"><div class="custom-sidebar gdl-divider widget_nav_menu" div="" id="nav_menu-3"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">{{ .Title }}</h3><div class="menu-about-container">
+      <ul id="menu-about" class="menu">
+        {{ range .Parent.Pages }}
+        <li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1366"><a href="{{.Permalink}}">{{.Title}}</a></li>
+        {{ end }}
+      </ul></div></div><div class="pt30"></div></div></div></div>
+          <br class="clear">
+        </div>
+      </div> <!-- content-wrapper -->
 
 		</div> <!-- header content wrapper -->
 	</div> <!-- content container -->
