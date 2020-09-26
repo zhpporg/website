@@ -8,6 +8,10 @@ draft: false
 
 New family applications are accepted on a first come, first served basis. [Contact us!]({{< ref "/contact" >}}) And join us for an upcoming open [house]({{< ref "/about/open-house" >}}).
 
+[Registration Packet 2019-20](/registration/ZHPPRegistrationPacket-2019-2020-New-Families-Final.pdf)
+
+[Registration Packet 2020-21](/registration/ZHPP-2020-2021-Registration_New-Families.pdf)
+
 ## Payment schedule
 
 There’s a one time registration fee. (Nonrefundable)
