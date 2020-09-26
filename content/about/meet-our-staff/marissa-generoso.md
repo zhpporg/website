@@ -1,12 +1,13 @@
 ---
 title: "Marissa Generoso"
 date: 2020-09-26T00:00:53-04:00
+image: "/about/meet-our-staff/marissa-generoso-390x224.jpeg"
 draft: false
 ---
 
 ## Five's
 
-![](/about/meet-our-staff/marissa-generoso.jpeg)
+![](/about/meet-our-staff/marissa-generoso-150x150.jpeg)
 
 With more than 25 years of experience teaching children ages two through six, Marissa joined Zion’s Hill Preschool in 2016. She holds an AD in Early Childhood Education from Norwalk Community College. Marissa focuses on each child’s strengths to help them feel confident and comfortable in achieving their goals, and she relishes children’s lit-up faces when they do! Marissa’s home in Norwalk is full: husband Carl, children Dax, Mia, and Tanner, and five dogs.
 

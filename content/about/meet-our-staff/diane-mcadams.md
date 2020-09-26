@@ -1,12 +1,13 @@
 ---
 title: "Diane McAdams"
 date: 2020-09-25T23:59:31-04:00
+image: "/about/meet-our-staff/diane-mcadams-390x224.jpeg"
 draft: false
 ---
 
 ## Floater
 
-![](/about/meet-our-staff/diane-mcadams.jpeg)
+![](/about/meet-our-staff/diane-mcadams-150x150.jpeg)
 
 After her children attended Zion’s Hill Preschool, Diane joined the staff in 2008. She holds a BBA from Pace University. Diane loves to encourage children to do their best, especially when trying to skills and activities. Born and raised in New York, Diane now lives in Wilton with her family.
 
