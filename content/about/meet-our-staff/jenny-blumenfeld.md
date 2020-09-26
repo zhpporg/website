@@ -2,6 +2,7 @@
 title: "Jenny Blumenfeld"
 date: 2020-09-25T23:59:51-04:00
 image: "/about/meet-our-staff/jenny-blumenfeld-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

@@ -2,6 +2,7 @@
 title: "Kathy Drabaski"
 date: 2020-09-26T00:00:22-04:00
 image: "/about/meet-our-staff/kathy-drabaski-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

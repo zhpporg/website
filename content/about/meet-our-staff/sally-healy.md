@@ -2,6 +2,7 @@
 title: "Sally Healy"
 date: 2020-09-26T00:01:14-04:00
 image: "/about/meet-our-staff/sally-healy-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

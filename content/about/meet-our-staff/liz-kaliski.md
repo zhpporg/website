@@ -1,6 +1,7 @@
 ---
 title: "Liz Kaliski"
 date: 2020-09-26T00:00:34-04:00
+type: portfolio
 draft: false
 ---
 

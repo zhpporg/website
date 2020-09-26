@@ -1,6 +1,7 @@
 ---
 title: "Danielle Wearing"
 date: 2020-09-25T23:59:05-04:00
+type: portfolio
 draft: false
 ---
 

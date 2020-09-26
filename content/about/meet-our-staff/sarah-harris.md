@@ -2,6 +2,7 @@
 title: "Sarah Harris"
 date: 2020-09-26T00:01:21-04:00
 image: "/about/meet-our-staff/sarah-harris-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

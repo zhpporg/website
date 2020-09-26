@@ -2,6 +2,7 @@
 title: "Jo Anne Parady"
 date: 2020-09-26T00:00:01-04:00
 image: "/about/meet-our-staff/jo-anne-parady-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

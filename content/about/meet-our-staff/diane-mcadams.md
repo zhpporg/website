@@ -2,6 +2,7 @@
 title: "Diane McAdams"
 date: 2020-09-25T23:59:31-04:00
 image: "/about/meet-our-staff/diane-mcadams-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

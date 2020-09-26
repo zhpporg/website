@@ -2,6 +2,7 @@
 title: "Tracey Lajoie"
 date: 2020-09-26T00:01:33-04:00
 image: "/about/meet-our-staff/tracey-lajoie-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

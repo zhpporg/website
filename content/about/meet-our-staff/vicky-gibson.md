@@ -2,6 +2,7 @@
 title: "Vicky Gibson"
 date: 2020-09-26T00:01:41-04:00
 image: "/about/meet-our-staff/vicky-gibson-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

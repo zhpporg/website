@@ -2,6 +2,7 @@
 title: "Meg Donahue"
 date: 2020-09-26T00:01:04-04:00
 image: "/about/meet-our-staff/meg-donahue-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

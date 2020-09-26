@@ -2,6 +2,7 @@
 title: "Christine Smith"
 date: 2020-09-25T23:58:57-04:00
 image: "/about/meet-our-staff/christine-smith-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

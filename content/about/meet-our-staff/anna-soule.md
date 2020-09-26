@@ -2,6 +2,7 @@
 title: "Anna Soule"
 date: 2020-09-25T23:46:05-04:00
 image: "/about/meet-our-staff/anna-soule-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

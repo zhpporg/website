@@ -2,6 +2,7 @@
 title: "Deb Runestad"
 date: 2020-09-25T23:59:18-04:00
 image: "/about/meet-our-staff/deb-runestad-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

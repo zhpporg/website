@@ -2,6 +2,7 @@
 title: "Bridget Mitchell"
 date: 2020-09-25T23:58:42-04:00
 image: "/about/meet-our-staff/bridget-mitchell-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

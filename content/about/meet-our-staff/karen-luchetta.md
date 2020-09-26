@@ -2,6 +2,7 @@
 title: "Karen Luchetta"
 date: 2020-09-26T00:00:10-04:00
 image: "/about/meet-our-staff/karen-luchetta-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 

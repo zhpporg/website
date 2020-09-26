@@ -2,6 +2,7 @@
 title: "Marissa Generoso"
 date: 2020-09-26T00:00:53-04:00
 image: "/about/meet-our-staff/marissa-generoso-390x224.jpeg"
+type: portfolio
 draft: false
 ---
 
