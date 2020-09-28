@@ -1,31 +1,31 @@
 ---
 title: "Graduation 2020"
 date: 2020-06-08T00:12:00-04:00
-image: /news-blogs/graduation-2020-460x180.jpg
+image: /news-blog/graduation-2020-460x180.jpg
 author: Suzanne Farrell Smith
 type: blog
 draft: false
 ---
 
-![](/news-blogs/graduation-2020/01.jpg)
+![](/news-blog/graduation-2020/01.jpg)
 
-![](/news-blogs/graduation-2020/02.jpg)
+![](/news-blog/graduation-2020/02.jpg)
 
-![](/news-blogs/graduation-2020/03.jpg)
+![](/news-blog/graduation-2020/03.jpg)
 
-![](/news-blogs/graduation-2020/04.jpg)
+![](/news-blog/graduation-2020/04.jpg)
 
-![](/news-blogs/graduation-2020/05.jpg)
+![](/news-blog/graduation-2020/05.jpg)
 
-![](/news-blogs/graduation-2020/06.jpg)
+![](/news-blog/graduation-2020/06.jpg)
 
-![](/news-blogs/graduation-2020/07.jpg)
+![](/news-blog/graduation-2020/07.jpg)
 
-![](/news-blogs/graduation-2020/08.jpg)
+![](/news-blog/graduation-2020/08.jpg)
 
-![](/news-blogs/graduation-2020/09.jpg)
+![](/news-blog/graduation-2020/09.jpg)
 
-![](/news-blogs/graduation-2020/10.jpg)
+![](/news-blog/graduation-2020/10.jpg)
 
 They came with diplomas. They came with cookies and cameras. They came with a big banner and binders full of art. And they came with a bridge. A five-foot-long arched wooden bridge.
 

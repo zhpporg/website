@@ -48,55 +48,63 @@ Board Co-Chairs
 
 ---
 
-Happenings
+## Happenings
 
-Family Mentoring
+### Family Mentoring
+
 ZHPP Family Mentoring Program is returning for its second year! The program is an opportunity for current families to welcome and introduce new families to our wonderful community. During times like these, we believe programs such as this are even more important in facilitating the strong community feel in which ZHPP takes pride.
 
 We are currently welcoming mentors and mentees. If you are a seasoned ZHPP parent, we encourage you to help guide a new family and answer their questions as they transition into the school year. If you are new to Zion’s Hill and would like to be paired with a mentor, please contact Sarah Rondeau.
 
-Room Representatives
+### Room Representatives
+
 Room Representative is a very important (but not difficult!) volunteer position for the school. It is a great way to meet new people and make friends, stay involved and give back to ZHPP.
 
 Room Rep duties include communicating with the rest of the parents in the class about school-wide or class-wide events, organizing class gifts for teachers, and organizing Back-To-School coffee for the class in the beginning of the year. If so inclined, the Room Rep may also choose to organize parent outings and/or play dates with classmates.
 
 If you have any interest in being a Room Rep for your child’s class this year, please email Yana Dusheyko.
 
-ZHPP Board Openings
+### ZHPP Board Openings
+
 Our parent-run Board currently has three openings for Secretary, Communications, and Parent-At-Large. Joining the Board is a great way to become more involved in your child’s education, meet new people, and lend a helping hand to teachers and staff. If you’re interested in joining, please contact Gina Chute and Sarah Rhee.
 
 ---
 
-Extended Day Programming
+## Extended Day Programming
 
-Early Bird
+### Early Bird
+
 This offering allows parents to drop off their child at 8 or 8:30am, before the start of our core program. All children attending Early Bird will meet in the same assigned classroom and enjoy relaxed, age-appropriate activities. Parents are welcome to send breakfast for their child. At 8:55, the children will be escorted to their regular classrooms by staff. Early Bird starts the week of September 14.
 
-Afternoon Adventures
+### Afternoon Adventures
+
 Our wonderful extended day programs for the Three’s, Four’s, and Five’s are designed so your child can learn, play, and explore a new skill in a caring and nurturing environment. Afternoon Adventures include a short rest, focused instruction from our teachers, snack, and playground time. Each program runs from 12:30–3. Afternoon Adventures start the week of September 14.
 
-Extensions for Two’s
+### Extensions for Two’s
+
 Extended day options are available for our Two’s as well, with less emphasis on focused instruction and more time for rest and free play. Extensions also include snack and playground time, and run from 12:30–3. Extensions for Two’s start the week of September 21.
 
 ---
 
-Staying Informed
+## Staying Informed
 
 Please review ZHPP’s COVID-19 Policies and Procedures and At-Home Health Checklist.
 
-Resources for COVID-19
+### Resources for COVID-19
+
 Many of us may be struggling with how to answer our children’s questions about COVID-19. Here are links to some terrific resources:
 
-American Academy of Child & Adolescent Psychiatry (AACAP Covid Talking Points and AACP Shelter in Place)
-Centers for Disease Control and Prevention (CDC Talking with Children Guidelines)
-PBS Kids (PBS Kids Covid)
+* American Academy of Child & Adolescent Psychiatry (AACAP Covid Talking Points and AACP Shelter in Place)
+* Centers for Disease Control and Prevention (CDC Talking with Children Guidelines)
+* PBS Kids (PBS Kids Covid)
 
 The following are links to general resources for guidance:
 
-Town of Wilton
-CT Department of Public Health
-Centers for Disease Control and Prevention (CDC)
-CT COVID hotline: Call 2-1-1 or text “CTCOVID” to 898211
+* Town of Wilton
+* CT Department of Public Health
+* Centers for Disease Control and Prevention (CDC)
+* CT COVID hotline: Call 2-1-1 or text “CTCOVID” to 898211
 
-Staying Connected
+### Staying Connected
+
 Please visit our Facebook page \@ZionsHillPreschoolCT.
