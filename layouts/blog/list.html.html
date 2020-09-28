@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+{{ partial "head.html" . }}
+
+<body class="page page-id-983 page-parent page-template-default">
+	<div class="body-wrapper">
+
+		{{ partial "top-navigation-wrapper.html" . }}
+
+	<div class="all-container-wrapper boxed-layout">
+		{{ partial "header-outer-wrapper.html" . }}
+    {{ partial "main-navigation-wrapper.html" . }}
+
+    <div class="container main content-container">
+  <div class="header-content-wrapper">		<div class="content-wrapper ">
+
+<div class="page-wrapper">
+  <div class='gdl-page-float-left'>
+    <div class='gdl-page-item'>
+      <div class="sixteen columns mt30">
+        <h1 class="gdl-page-title gdl-divider gdl-title title-color">{{ .Title }}</h1>
+      </div>
+      <div class="sixteen columns wrapper mt0">
+        <div id="blog-item-holder" class="blog-item-holder">
+          {{ range .Pages }}
+          <div class="blog-item1 gdl-divider sixteen columns mt0">
+            <div class="blog-thumbnail-image"><a href="{{.Permalink}}">
+              {{ with .Params.image | default "/news-blogs/playground-460x180.jpg" }}
+              <img src="{{.}}" alt=""/>
+              {{ end }}
+            </a></div>
+            <div class="blog-thumbnail-context">
+              <h2 class="blog-thumbnail-title post-title-color gdl-title"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+              <div class="blog-thumbnail-info post-info-color gdl-divider">
+                <div class="blog-thumbnail-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
+                <div class="clear"></div>
+              </div>
+              <div class="blog-thumbnail-content">{{ .Summary }}</div>
+              <a class="blog-continue-reading" href="{{.Permalink}}"><em>Continue Reading →</em></a>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        <div class="clear"></div>
+        <div class="pagination gdl-divider"><span class="current">1</span><a href='http://www.zhpp.org/news-blog/page/2/?preview=true&#038;preview_id=1072&#038;preview_nonce=57f0c420c8' class="inactive">2</a><a href='http://www.zhpp.org/news-blog/page/3/?preview=true&#038;preview_id=1072&#038;preview_nonce=57f0c420c8' class="inactive">3</a><a href='http://www.zhpp.org/news-blog/page/4/?preview=true&#038;preview_id=1072&#038;preview_nonce=57f0c420c8' class="inactive">4</a><a href='http://www.zhpp.org/news-blog/page/5/?preview=true&#038;preview_id=1072&#038;preview_nonce=57f0c420c8' class="inactive">5</a></div>
+      </div>
+    </div>
+  </div>
+  <br class="clear">
+</div>
+</div> <!-- content-wrapper -->
+
+</div> <!-- header content wrapper -->
+</div> <!-- content container -->
+
+	{{ partial "footer-container-wrapper.html" . }}
+  {{ partial "copyright-container-wrapper.html" . }}
+
+</div> <!-- body-wrapper -->
+
+    {{ partial "footer-script.html" . }}
+  </body>
+</html>

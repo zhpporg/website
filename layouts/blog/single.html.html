@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+{{ partial "head.html" . }}
+
+<body class="page page-id-983 page-parent page-template-default">
+	<div class="body-wrapper">
+
+		{{ partial "top-navigation-wrapper.html" . }}
+
+	<div class="all-container-wrapper boxed-layout">
+		{{ partial "header-outer-wrapper.html" . }}
+    {{ partial "main-navigation-wrapper.html" . }}
+
+		<div class="container main content-container">
+			<div class="header-content-wrapper">		<div class="content-wrapper sidebar-included left-sidebar">
+
+		<div class="page-wrapper">
+			<div class='gdl-page-float-left'><div class='gdl-page-item'><div class="sixteen columns mt30"><h1 class="gdl-page-title gdl-divider gdl-title title-color">{{ .Title }}</h1>
+        <div class="single-thumbnail-info post-info-color gdl-divider">
+          <div class="single-thumbnail-date">{{ .PublishDate.Format "January 2, 2006" }}</div>
+          <div class="single-thumbnail-author">by {{ index .Params "author" | default "zhpp" }}</div>
+          <div class="clear"></div>
+        </div>
+        <div class="gdl-page-content">
+          {{ .Content }}
+        </div>
+      </div></div><div class='five columns mt0 gdl-left-sidebar'><div class='left-sidebar-wrapper gdl-divider'><div class="custom-sidebar gdl-divider widget_nav_menu" div id="nav_menu-3" ><h3 class="custom-sidebar-title sidebar-title-color gdl-title">{{ .Parent.Title }}</h3><div class="menu-about-container">
+        <ul id="menu-about" class="menu">
+          <li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item page_item page-item-983 current_page_item menu-item-1361"><a href="{{.Parent.Permalink}}">{{ .Parent.Title }}</li>
+          {{ range .Parent.Pages }}
+          {{ if eq $.Permalink .Permalink }}
+          <li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-983 current_page_item menu-item-1361"><a href="{{.Permalink}}">{{ .Title }}</a></li>
+          {{ else }}
+          <li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item page_item page-item-983 current_page_item menu-item-1361"><a href="{{.Permalink}}">{{ .Title }}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul></div></div><div class='pt30'></div></div></div></div>
+			<br class="clear">
+		</div>
+	</div> <!-- content-wrapper -->
+
+		</div> <!-- header content wrapper -->
+	</div> <!-- content container -->
+	{{ partial "footer-container-wrapper.html" . }}
+  {{ partial "copyright-container-wrapper.html" . }}
+
+</div> <!-- body-wrapper -->
+
+    {{ partial "footer-script.html" . }}
+  </body>
+</html>
