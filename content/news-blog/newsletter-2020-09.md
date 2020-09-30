@@ -5,21 +5,23 @@ type: blog
 draft: false
 ---
 
-August
-31 Meet the Teacher
+### August
 
-September
-1 Meet the Teacher
-2 Board Meeting, 8:00 pm, Zoom
-2-4 Orientation Week
-7 No School – Labor Day
-8-11 School Begins, 9:00–11:30, each day
-14 Full Days Begin (Three’s, Four’s, and Five’s), 9:00 am–12:30 pm
-\*14 Afternoon Adventures Begin (Three’s, Four’s, and Five’s), 12:30–3:00
-\*14 Early Bird Begins, 8 or 8:30 am
-21 Full Days Begin (Two’s), 9:00 am–12:30 pm
-\*21 Extensions Begin (Two’s), 12:30–3:00
-28 No School – Yom Kippur
+* 31 Meet the Teacher
+
+### September
+
+* 1 Meet the Teacher
+* 2 Board Meeting, 8:00 pm, Zoom
+* 2-4 Orientation Week
+* 7 No School – Labor Day
+* 8-11 School Begins, 9:00–11:30, each day
+* 14 Full Days Begin (Three’s, Four’s, and Five’s), 9:00 am–12:30 pm
+* \*14 Afternoon Adventures Begin (Three’s, Four’s, and Five’s), 12:30–3:00
+* \*14 Early Bird Begins, 8 or 8:30 am
+* 21 Full Days Begin (Two’s), 9:00 am–12:30 pm
+* \*21 Extensions Begin (Two’s), 12:30–3:00
+* 28 No School – Yom Kippur
 
 \* Due to Covid-19, all dates are subject to change.
 
