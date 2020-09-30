@@ -5,7 +5,9 @@ weight: 3
 draft: false
 ---
 
-*The cost of providing an educational and exciting environment for each student is not covered by tuition alone.*
+{{< intro >}}
+The cost of providing an educational and exciting environment for each student is not covered by tuition alone.
+{{< /intro >}}
 
 Please make a donation today via the [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7C2YUD2MB3WPS) button to support our kids, our teachers and our future.  Thank you in advance for your kind contribution and participation.
 

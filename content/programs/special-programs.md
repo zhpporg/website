@@ -7,7 +7,9 @@ draft: false
 
 ![](/programs/fire-truck.jpg)
 
-*Throughout the year, ZHPP schedules special programming to enhance our classroom curriculum.*
+{{< intro >}}
+Throughout the year, ZHPP schedules special programming to enhance our classroom curriculum.
+{{< /intro >}}
 
 These may include movement and music programs, a school-wide hayride, both marine and furry animal visits, science programs, and visits from the town fire and police departments.
 

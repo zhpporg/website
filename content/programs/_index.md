@@ -4,7 +4,9 @@ date: 2020-09-12T16:29:45-04:00
 draft: false
 ---
 
-*The age-appropriate curriculum is designed to meet the social, emotional, physical, and intellectual needs of early childhood.*
+{{< intro >}}
+The age-appropriate curriculum is designed to meet the social, emotional, physical, and intellectual needs of early childhood.
+{{< /intro >}}
 
 *Our teachers make it their priority to create an environment where children have many choices…*
 

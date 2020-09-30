@@ -4,7 +4,9 @@ date: 2020-09-11T23:02:21-04:00
 draft: false
 ---
 
-*Zion’s Hill Preschool Program provides a developmentally appropriate learning environment for children ages two to five years.*
+{{< intro >}}
+Zion’s Hill Preschool Program provides a developmentally appropriate learning environment for children ages two to five years.
+{{< /intro >}}
 
 *Zion’s Hill Preschool Program is an Independent Nondenominational School. Our school community has no religious affiliation. We welcome all faiths and cultures.*
 

@@ -7,7 +7,9 @@ draft: false
 
 ![](/programs/special-events.jpg)
 
-*Zion’s Hill Preschool Program strongly encourages family interaction and inclusion.*
+{{< intro >}}
+Zion’s Hill Preschool Program strongly encourages family interaction and inclusion.
+{{< /intro >}}
 
 Understanding that every family is busy, we provide many options for involvement in school activities. There are annual events that parents and families can participate in throughout the school year.
 
